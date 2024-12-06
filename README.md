@@ -7,7 +7,6 @@ I’m a self-taught Data Scientist and Python Developer with a passion for Machi
 - 🌱 I’m currently learning SQL, advanced Python, C++, JavaScript and contributing to open-source projects.
 - 👯 I’m actively looking for new oppurtunities in software development.
 - 🤔 I’m always open to learning new skills and technologies.
-- 💬 Ask me about Python, Data Science, and Machine Learning!
 - 📫 Reach me at [syko2021@gmail.com](mailto:syko2021@gmail.com)
 
 
